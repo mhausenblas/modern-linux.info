@@ -82,7 +82,7 @@ _Note: this chapter is already available in Early Release._
 
 ### Ch 7: Networking
 
-> In this chapter we go into detail concerning Linux networking. In modern environ‐ ments, the network stack that Linux provides is an essential component without few things are possible. No matter if you want to access an instance in your cloud pro‐ vider of choice, or if you want to browse the Web or if you want to install a new app. You need connectivity and you need a way to interact with it.
+> In this chapter we go into detail concerning Linux networking. In modern environments, the network stack that Linux provides is an essential component without few things are possible. No matter if you want to access an instance in your cloud provider of choice, or if you want to browse the Web or if you want to install a new app.
 
 * The TCP/IP Stack
 * The Domain Name System (DNS) 
@@ -91,7 +91,7 @@ _Note: this chapter is already available in Early Release._
 
 ### Ch 8: Observability
 
-> This chapter is all about gathering and using different signals that Linux and its appli‐ cations generate to make informed decisions. For example, about figuring how much memory a process consumes, understand how soon you will run out of disk space or alert on custom event for security reasons. In other words: you need visibility into what’s going on across the stack, from the kernel to the user-facing parts and often it’s about knowing about and using the right tool for a task.
+> This chapter is all about gathering and using different signals that Linux and its applications generate to make informed decisions. For example, about figuring how much memory a process consumes, understand how soon you will run out of disk space or alert on custom event for security reasons. In other words: you need visibility into what’s going on across the stack, from the kernel to the user-facing parts and often it’s about knowing about and using the right tool for a task.
 
 * Basics
 * Logging
@@ -109,7 +109,7 @@ _Note: this chapter is already available in Early Release._
 * Other Modern and Future Offerings
 
 ### Appendix A: How Tos
-> In this appendix I’ve compiled a list of recipes for common tasks. This is just a selec‐ tion of recipes that I’ve gathered over time, tasks that I often carry out and like to have handy as a reference.
+> In this appendix I’ve compiled a list of recipes for common tasks. This is just a selection of recipes that I’ve gathered over time, tasks that I often carry out and like to have handy as a reference.
 
 ### Appendix B: Modern Linux Tools
 > In this appendix we focus on modern Linux tools and commands some are drop-in replacements of existing commands, others are new ones. Most improve on the UX including easier usage and making use of colored output.
