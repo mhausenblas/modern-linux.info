@@ -62,6 +62,8 @@ _Note: this chapter is already available in Early Release._
 
 ### Ch 5: Filesystems
 
+_Note: this chapter is already available in Early Release._
+
 > In this chapter we focus on files and filesystems. We look at how Linux implements the “everything is a file” abstraction. Next, we review special-purpose filesystems the kernel uses to expose information about processes or devices. We then move on to regular files and filesystems, something you would typically associate with documents, and compare filesystem options and discuss common operations.
   
 * Basics
