@@ -1,17 +1,25 @@
-Whether you're new to Linux or have some experience, this practical book shows you how to master various tasks with this operating system.
+A warm welcome to Learning Modern Linux and I am glad that we will walk this 
+journey together for a bit. This book is for you, if you’ve been using 
+Linux already for a little bit and looking for a structured approach to dive 
+deeper in a hands-on fashion or already have more experience and want to get 
+some tips and tricks to improve your flow when working with Linux. For example, 
+in a professional setup, such as development or operations. We will focus on 
+using Linux for your everydays needs, from development to office-related tasks
+rather than on the system administration side of things.
 
-Cloud native professionals including developers, testers, release engineers, architects, devops practitioners & SREs will learn how to effectively use and 
-program Linux in different modern environments with a special focus on cloud providers and embedded systems (such as the Raspberry Pi).
-
-Along the way, you'll gain hands-on experience with modern terminals, shells, and commands, use Linux networking, and learn how to manage your workloads, 
-all with the goal of implementing modern Linux observability. You'll also understand how to run Linux applications in modern ways by using containers, 
-systemd, modern filesystems, and immutable distros such as Flatcar and Bottlerocket.
-
-The book is currently in [Early Release at O'Reilly](https://learning.oreilly.com/library/view/learning-modern-linux/9781098108939/) and if you have feedback, 
-please share via [modern-linux@pm.me](mailto:modern-linux@pm.me). 
-
+Along the way, you'll gain hands-on experience with modern Linux terminals and
+shells, and learn how to manage your workloads in a modern way.
+You'll understand how to run Linux applications in modern ways by using 
+containers, `systemd`, modern filesystems, and immutable distros such as 
+Flatcar and Bottlerocket.
 
 ![book cover](lml-cover.png)
+
+The book is currently in [Early Release at O'Reilly](https://learning.oreilly.com/library/view/learning-modern-linux/9781098108939/) 
+and if you have feedback, please share via [modern-linux@pm.me](mailto:modern-linux@pm.me).
+
+Last but not least, a collection of [references](references) (links to articles and tools)
+is also available for you to use.
 
 ## Coverage
 
@@ -100,7 +108,7 @@ _Note: this chapter is already available in Early Release._
 * Monitoring
 * Advanced Observability
 
-### Chapter 9: Advanced Topics
+### Ch 9: Advanced Topics
 
 > This chapter is a bit of a mixed bag. We cover a range of topics, from virtual machines to security to new ways how to use Linux. What the topics in this chapter have in common is that most of them are either only relevant for you if you have a specific use case in mind or you require them, in a professional setup.
 
