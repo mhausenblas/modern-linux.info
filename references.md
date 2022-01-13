@@ -2,7 +2,7 @@
 
 ## Ch 1: Introduction to Linux
 
-[Happy birthday, Linux: From a bedroom project to billions of devices in 30 years • The Register](https://www.theregister.com/2021/08/25/linux_kernel_30_years_old/)
+[Happy birthday, Linux](https://www.theregister.com/2021/08/25/linux_kernel_30_years_old/)
 
 [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 
@@ -27,13 +27,11 @@
 
 [CPU Architectures — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/arch.html)
 
-[https://tldp.org/LDP/tlk/mm/memory.html](https://tldp.org/LDP/tlk/mm/memory.html)
-
 [Linux Device Drivers, Second Edition - LWN.net](https://lwn.net/Kernel/LDD2/ch16.lwn)
 
 [Important parts of the kernel](https://tldp.org/LDP/sag/html/kernel-parts.html#:~:text=The%20Linux%20kernel%20consists%20of,various%20other%20bits%20and%20pieces.)
 
-[io_uring is not an event system | despair labs](https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/)
+[`io_uring` is not an event system](https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/)
 
 [Ch2: Practical Safe Linux Kernel Extensibility](https://homes.cs.washington.edu/~arvind/papers/rust-ext.pdf)
 
@@ -44,8 +42,6 @@
 [Anatomy of the Linux kernel – IBM Developer](https://developer.ibm.com/articles/l-linux-kernel/)
 
 [The Linux kernel: Processes](https://www.win.tue.nl/~aeb/linux/lk/lk-10.html)
-
-[The Linux Implementation of Threads | Linux Kernel Process Management | InformIT](https://www.informit.com/articles/article.aspx?p=370047&seqNum=3)
 
 [Kernel Newbies: Understanding the structure task_struct](https://www.spinics.net/lists/newbies/msg11186.html)
 
@@ -61,9 +57,9 @@
 
 [Linux Kernel 2.4 Internals](https://tldp.org/LDP/lki/lki.pdf)
 
-[Linux Page Cache for SRE | Viacheslav Biriukov](https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/)
+[Linux Page Cache for SRE, Viacheslav Biriukov](https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/)
 
-[Searchable Linux Syscall Table for x86 and x86_64 | PyTux](https://filippo.io/linux-syscall-table/)
+[Searchable Linux Syscall Table for x86 and x86_64](https://filippo.io/linux-syscall-table/)
 
 [eBPF maps — Prototype Kernel 0.0.1 documentation](https://prototype-kernel.readthedocs.io/en/latest/bpf/ebpf_maps.html)
 
@@ -78,7 +74,7 @@
 
 [An introduction to terminal multiplexers - LinuxConfig.org](https://linuxconfig.org/an-introduction-to-terminal-multiplexers)
 
-[About - Linux Systems Analyst | Hayden James](https://haydenjames.io/about-me/)
+[About - Linux Systems Analyst, Hayden James](https://haydenjames.io/about-me/)
 
 [Warp: the blazingly fast, Rust-based terminal](https://www.warp.dev/)
 
@@ -90,28 +86,28 @@
 
 [Bash scripting cheatsheet](https://devhints.io/bash)
 
-[Bash best practices | cheat-sheets](https://bertvv.github.io/cheat-sheets/Bash.html)
+[Bash best practices: cheat-sheets](https://bertvv.github.io/cheat-sheets/Bash.html)
 
 [RFC3339 Date and Time on the Internet](https://datatracker.ietf.org/doc/html/rfc3339)
 
 [Regex cheatsheet](https://remram44.github.io/regex-cheatsheet/regex.html)
 
-[rr](https://taarr.com/)
+[`rr` shell script manager and runner](https://taarr.com/)
 
 [a8m/envsubst: Environment variables substitution for Go](https://github.com/a8m/envsubst)
 
-[Increasing productivity in tmux with a single prefix key | Guilherme Garnier](https://blog.guilhermegarnier.com/2017/12/increasing-productivity-in-tmux-with-a-single-prefix-key/)
+[Increasing productivity in tmux with a single prefix key, Guilherme Garnier](https://blog.guilhermegarnier.com/2017/12/increasing-productivity-in-tmux-with-a-single-prefix-key/)
 
-[Ghost in the Shell – Part 7 – ZSH Setup | 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗](https://vermaden.wordpress.com/2021/09/19/ghost-in-the-shell-part-7-zsh-setup/)
+[Ghost in the Shell – Part 7 – ZSH Setup](https://vermaden.wordpress.com/2021/09/19/ghost-in-the-shell-part-7-zsh-setup/)
 
 [Anatomy of a Terminal Emulator :: poor.dev](https://www.poor.dev/blog/terminal-anatomy/)
 
 
 ## Ch 4: Access Control
 
-[Managing Users & Groups, File Permissions & Attributes and Enabling sudo Access on Accounts - Part 8](https://www.tecmint.com/manage-users-and-groups-in-linux/)
+[Managing Users & Groups, File Permissions & Attributes](https://www.tecmint.com/manage-users-and-groups-in-linux/)
 
-[An introduction to Linux Access Control Lists (ACLs) | Enable Sysadmin](https://www.redhat.com/sysadmin/linux-access-control-lists)
+[An introduction to Linux Access Control Lists (ACLs)](https://www.redhat.com/sysadmin/linux-access-control-lists)
 
 [POSIX Access Control Lists on Linux](https://www.usenix.org/legacy/publications/library/proceedings/usenix03/tech/freenix03/full_papers/gruenbacher/gruenbacher_html/main.html)
 
@@ -129,7 +125,7 @@
 
 [A seccomp overview - LWN.net](https://lwn.net/Articles/656307/)
 
-[Improving Linux container security with seccomp | Enable Sysadmin](https://www.redhat.com/sysadmin/container-security-seccomp)
+[Improving Linux container security with seccomp](https://www.redhat.com/sysadmin/container-security-seccomp)
 
 [Security/Sandbox/Seccomp - MozillaWiki](https://wiki.mozilla.org/Security/Sandbox/Seccomp)
 
@@ -139,24 +135,22 @@
 
 [Access Control Lists - ArchWiki](https://wiki.archlinux.org/title/Access_Control_Lists)
 
-[Access Control Lists in Linux | Security Guide | SUSE Linux Enterprise Server 12 SP4](https://documentation.suse.com/sles/12-SP4/html/SLES-all/cha-security-acls.html)
-
-[Secure Files/Directories using ACLs (Access Control Lists) in Linux](https://www.tecmint.com/secure-files-using-acls-in-linux/)
+[Access Control Lists in Linux](https://documentation.suse.com/sles/12-SP4/html/SLES-all/cha-security-acls.html)
 
 
 ## Ch 5: Filesystems
 
 [Understanding File System Superblock in Linux](https://www.slashroot.in/understanding-file-system-superblock-linux)
 
-[Overview of the Linux Virtual File System — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/filesystems/vfs.html)
+[Overview of the Linux Virtual File System](https://www.kernel.org/doc/html/latest/filesystems/vfs.html)
 
-[L21-LinuxVFS](http://www.cs.columbia.edu/~krj/os/lectures/L21-LinuxVFS.pdf)
+[LinuxVFS (COMSW4118 lecture, Kaustubh R. Joshi)](http://www.cs.columbia.edu/~krj/os/lectures/L21-LinuxVFS.pdf)
 
 [Filesystems in the Linux kernel — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/filesystems/)
 
-[A Linux user's guide to Logical Volume Management | Opensource.com](https://opensource.com/business/16/9/linux-users-guide-lvm)
+[A Linux user's guide to Logical Volume Management](https://opensource.com/business/16/9/linux-users-guide-lvm)
 
-[Linux LVM Cheat Sheet / Quick Reference | UnixUtils](https://unixutils.com/lvm-cheat-sheet-quick-reference/)
+[Linux LVM Cheat Sheet](https://unixutils.com/lvm-cheat-sheet-quick-reference/)
 
 [fstab - ArchWiki](https://wiki.archlinux.org/title/Fstab)
 
@@ -186,7 +180,7 @@
 
 [Unionfs: A Stackable Unification File System](https://unionfs.filesystems.org/)
 
-[Kernel Korner - Unionfs: Bringing Filesystems Together | Linux Journal](https://www.linuxjournal.com/article/7714)
+[Kernel Korner - Unionfs: Bringing Filesystems Together](https://www.linuxjournal.com/article/7714)
 
 [Unifying filesystems with union mounts - LWN.net](https://lwn.net/Articles/312641/)
 
@@ -197,21 +191,21 @@
 
 [systemd journal](https://docs.google.com/document/u/1/pub?id=1IC9yOXj7j6cdLLxWEBAGRL6wl97tFxgjLUEHIX3MSTs)
 
-[The 7 most used Linux namespaces | Enable Sysadmin](https://www.redhat.com/sysadmin/7-linux-namespaces)
+[The 7 most used Linux namespaces](https://www.redhat.com/sysadmin/7-linux-namespaces)
 
-[DMVerity · Wiki · cryptsetup / cryptsetup · GitLab](https://gitlab.com/cryptsetup/cryptsetup/-/wikis/DMVerity)
+[DMVerity](https://gitlab.com/cryptsetup/cryptsetup/-/wikis/DMVerity)
 
-[Systemd Essentials: Working with Services, Units, and the Journal | DigitalOcean](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal)
+[Systemd Essentials: Working with Services, Units, and the Journal](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal)
 
 [systemd/Journal - ArchWiki](https://wiki.archlinux.org/title/Systemd/Journal)
 
-[Linux package managers: dnf vs apt | Opensource.com](https://opensource.com/article/21/7/dnf-vs-apt)
+[Linux package managers: dnf vs apt](https://opensource.com/article/21/7/dnf-vs-apt)
 
-[Understanding Systemd Units and Unit Files | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-systemd-units-and-unit-files)
+[Understanding Systemd Units and Unit Files](https://www.digitalocean.com/community/tutorials/understanding-systemd-units-and-unit-files)
 
-[How To Use Journalctl to View and Manipulate Systemd Logs | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
+[How To Use Journalctl to View and Manipulate Systemd Logs](https://www.digitalocean.com/community/tutorials/how-to-use-journalctl-to-view-and-manipulate-systemd-logs)
 
-[Managing Logging in Systemd - Selectel Blog](https://blog.selectel.com/managing-logging-systemd/)
+[Managing Logging in Systemd](https://blog.selectel.com/managing-logging-systemd/)
 
 [CPP / C++ - Package Managers](https://caiorss.github.io/C-Cpp-Notes/package-managers.html)
 
@@ -221,7 +215,7 @@
 
 [systemd/Timers - ArchWiki](https://wiki.archlinux.org/title/Systemd/Timers)
 
-[Dockerfile reference | Docker Documentation](https://docs.docker.com/engine/reference/builder/)
+[Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 
 [The Quest for Minimal Docker Images, part 1](https://jpetazzo.github.io/2020/02/01/quest-minimal-docker-images-part-1/)
 
@@ -229,27 +223,27 @@
 
 [An Overview of Docker Desktop Alternatives](https://matt-rickard.com/docker-desktop-alternatives/)
 
-[containerd – An industry-standard container runtime with an emphasis on simplicity, robustness and portability](https://containerd.io/)
+[containerd](https://containerd.io/)
 
-[Demystifying Containers – Part III: Container Images | SUSE Communities](https://www.suse.com/c/demystifying-containers-part-iii-container-images/)
+[Demystifying Containers – Part III: Container Images](https://www.suse.com/c/demystifying-containers-part-iii-container-images/)
 
-[containers/skopeo: Work with remote images registries - retrieving information, images, signing content](https://github.com/containers/skopeo)
+[containers/skopeo](https://github.com/containers/skopeo)
 
-[systemd Documentation | systemd](https://systemd.io/)
+[systemd Documentation](https://systemd.io/)
 
 [rpm tutorial (2012)](https://access.redhat.com/sites/default/files/attachments/rpm_tutorial_20120831.pdf)
 
-[Analyzing the Linux boot process | Opensource.com](https://opensource.com/article/18/1/analyzing-linux-boot-process)
+[Analyzing the Linux boot process](https://opensource.com/article/18/1/analyzing-linux-boot-process)
 
 [Linux Package Management](https://www.linode.com/docs/guides/tools-reference/linux-package-management/)
 
-[saschagrunert/demystifying-containers: A series of blog posts and talks about the world of containers 📦](https://github.com/saschagrunert/demystifying-containers)
+[A series of blog posts and talks about the world of containers](https://github.com/saschagrunert/demystifying-containers)
 
 [cgroups - ArchWiki](https://wiki.archlinux.org/title/Cgroups)
 
 [Control Group v2 — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/admin-guide/cgroup-v2.html)
 
-[Use bind mounts | Docker Documentation](https://docs.docker.com/storage/bind-mounts/)
+[Use bind mounts](https://docs.docker.com/storage/bind-mounts/)
 
 [The hunt for a better Dockerfile](https://matduggan.com/the-hunt-for-a-better-dockerfile/)
 
@@ -270,21 +264,21 @@
 
 [jonaslu/ain: An HTTP API client for the terminal](https://github.com/jonaslu/ain)
 
-[Understanding network things in sketchnotes Series' Articles - DEV Community](https://dev.to/aurelievache/series/12360)
+[Understanding network things in sketchnotes Series' Articles](https://dev.to/aurelievache/series/12360)
 
 [5 years of Envoy OSS](https://mattklein123.dev/2021/09/14/5-years-envoy-oss/)
 
 [orf/gping: Ping, but with a graph](https://github.com/orf/gping)
 
-[Understanding Sockets | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-sockets)
+[Understanding Sockets](https://www.digitalocean.com/community/tutorials/understanding-sockets)
 
-[Getting started with socat, a multipurpose relay tool for Linux | Enable Sysadmin](https://www.redhat.com/sysadmin/getting-started-socat)
+[Getting started with socat, a multipurpose relay tool for Linux](https://www.redhat.com/sysadmin/getting-started-socat)
 
-[An Introduction to DNS Terminology, Components, and Concepts | DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
+[An Introduction to DNS Terminology, Components, and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-dns-terminology-components-and-concepts)
 
 [IEEE 802.3-2018 - IEEE Standard for Ethernet](https://standards.ieee.org/standard/802_3-2018.html)
 
-[IPv4 Subnetting and Special Purpose IP Addresses - Knowledgebase - Mean Servers](https://www.meanservers.com/billing/knowledgebase/33/IPv4-Subnetting-and-Special-Purpose-IP-Addresses.html)
+[IPv4 Subnetting and Special Purpose IP Addresses](https://www.meanservers.com/billing/knowledgebase/33/IPv4-Subnetting-and-Special-Purpose-IP-Addresses.html)
 
 [CIDR.xyz](https://cidr.xyz/)
 
@@ -294,9 +288,9 @@
 
 [What Is CIDR (Classless Inter-Domain Routing)? - KeyCDN Support](https://www.keycdn.com/support/what-is-cidr)
 
-[projectdiscovery/mapcidr: Small utility program to perform multiple operations for a given subnet/CIDR ranges.](https://github.com/projectdiscovery/mapcidr)
+[projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr)
 
-[IPv6 | Weberblog.net](https://weberblog.net/ipv6/)
+[IPv6 Weberblog.net](https://weberblog.net/ipv6/)
 
 [IPv6 address types – APNIC](https://www.apnic.net/get-ip/faqs/what-is-an-ip-address/ipv6-address-types/)
 
@@ -314,24 +308,24 @@
 
 [Hello IPv6: a minimal tutorial for IPv4 users](https://metebalci.com/blog/hello-ipv6/)
 
-[What is SSH Tunneling, SSH Reverse Tunneling and SSH Port Forwarding? | Teleport](https://goteleport.com/blog/ssh-tunneling-explained/)
+[What is SSH Tunneling, SSH Reverse Tunneling and SSH Port Forwarding?](https://goteleport.com/blog/ssh-tunneling-explained/)
 
 ['BGP' by Iljitsch van Beijnum](http://www.bgpexpert.com/'BGP'-by-Iljitsch-van-Beijnum/)
 
 [What's in a hostname?](https://www.netmeister.org/blog/hostnames.html)
 
-[Everything you ever wanted to know about UDP sockets but were afraid to ask, part 1](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
+[Everything about UDP sockets](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 
 
 ## Ch 8: Observability
 
 [Linux Logging Complete Guide – devconnected](https://devconnected.com/linux-logging-complete-guide/)
 
-[Linux Logs Explained - Full overview of Linux Log Files - Plesk](https://www.plesk.com/blog/featured/linux-logs-explained/)
+[Linux Logs Explained - Full overview of Linux Log Files](https://www.plesk.com/blog/featured/linux-logs-explained/)
 
-[Linux Performance Observability Tools : linux](https://www.reddit.com/r/linux/comments/9va8jy/linux_performance_observability_tools/)
+[Linux Performance Observability Tools](https://www.reddit.com/r/linux/comments/9va8jy/linux_performance_observability_tools/)
 
-[Linux Performance Observability Tools | by Isuru Perera | Medium](https://medium.com/@chrishantha/linux-performance-observability-tools-19ae2328f87f)
+[Linux Performance Observability Tools](https://medium.com/@chrishantha/linux-performance-observability-tools-19ae2328f87f)
 
 [vmtouch](https://hoytech.com/vmtouch/)
 
@@ -341,25 +335,25 @@
 
 [Flame Graphs](https://www.brendangregg.com/flamegraphs.html)
 
-[facebookincubator/below: A time traveling resource monitor for modern Linux systems](https://github.com/facebookincubator/below)
+[facebookincubator/below](https://github.com/facebookincubator/below)
 
 [Glances - An Eye on your system](https://nicolargo.github.io/glances/)
 
-[ezannoni-tracing-tutorial-LF-2021.pdf](https://linuxfoundation.org/wp-content/uploads/ezannoni-tracing-tutorial-LF-2021.pdf)
+[Tracing tutorial LF-2021](https://linuxfoundation.org/wp-content/uploads/ezannoni-tracing-tutorial-LF-2021.pdf)
 
 [Linux tracing systems & how they fit together](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/#ftrace)
 
 [Nmon: Analyze and Monitor Linux System Performance](https://www.tecmint.com/nmon-analyze-and-monitor-linux-system-performance/)
 
-[Easy, proactive monitoring of processes, programs, files, directories, filesystems and hosts | Monit](https://mmonit.com/monit/)
+[monit](https://mmonit.com/monit/)
 
-[Shopify/statsd-instrument: A StatsD client for Ruby apps. Provides metaprogramming methods to inject StatsD instrumentation into your code.](https://github.com/shopify/statsd-instrument)
+[Shopify/statsd-instrument: A StatsD client for Ruby apps](https://github.com/shopify/statsd-instrument)
 
 [Learn StatsD Metrics Architecture, Metrics Types and Formats](https://sysdig.com/blog/monitoring-statsd-metrics/)
 
 [Distributed tracing](https://microservices.io/patterns/observability/distributed-tracing.html)
 
-[Linux Performance Analysis in 60,000 Milliseconds | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
+[Linux Performance Analysis in 60,000 Milliseconds](https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 
 [PabloLec/neoss: Unix tool with Terminal UI to visualize socket statistics.](https://github.com/PabloLec/neoss)
 
@@ -367,15 +361,15 @@
 
 [MTR](http://www.bitwizard.nl/mtr/)
 
-[google/pprof: pprof is a tool for visualization and analysis of profiling data](https://github.com/google/pprof)
+[google/pprof](https://github.com/google/pprof)
 
 [Valgrind Home](https://www.valgrind.org/)
 
-[syslog-ng/syslog-ng: syslog-ng is an enhanced log daemon, supporting a wide range of input and output methods: syslog, unstructured text, queueing, SQL & NoSQL.](https://github.com/syslog-ng/syslog-ng)
+[syslog-ng/syslog-ng](https://github.com/syslog-ng/syslog-ng)
 
 [rsyslog - ArchWiki](https://wiki.archlinux.org/title/Rsyslog)
 
-[Practical Linux tracing part 4: tracing container workload | by Tungdam | Oct, 2021 | Medium](https://tungdam.medium.com/practical-linux-tracing-part-4-tracing-container-workload-63ac04306b27)
+[Practical Linux tracing part 4: tracing container workload](https://tungdam.medium.com/practical-linux-tracing-part-4-tracing-container-workload-63ac04306b27)
 
 [Linux perf Profiler UIs](https://www.markhansen.co.nz/profiler-uis/)
 
@@ -383,36 +377,36 @@
 
 [Linux I/O Performance Tests using dd - Thomas-Krenn-Wiki](https://www.thomas-krenn.com/en/wiki/Linux_I/O_Performance_Tests_using_dd)
 
-[GitHub - evilsocket/uroboros: A GNU/Linux monitoring and profiling tool focused on single processes.](https://github.com/evilsocket/uroboros)
+[evilsocket/uroboros](https://github.com/evilsocket/uroboros)
 
 
 ## Ch 9: Advanced Topics
 
-[a13xp0p0v/linux-kernel-defence-map: Linux Kernel Defence Map shows the relationships between vulnerability classes, exploitation techniques, bug detection mechanisms, and defence technologies](https://github.com/a13xp0p0v/linux-kernel-defence-map)
+[a13xp0p0v/linux-kernel-defence-map: Linux Kernel Defence Map](https://github.com/a13xp0p0v/linux-kernel-defence-map)
 
-[The Linux binfmt subsystem - antek's tech blog](https://anadoxin.org/blog/the-linux-binfmt-subsystem.html/)
+[The Linux binfmt subsystem](https://anadoxin.org/blog/the-linux-binfmt-subsystem.html/)
 
 [Pipes and Sockets](https://fog.ccsf.edu/~gboyd/cs260a/online/processes/pipes_and_sockets.html)
 
-[Inter-process communication in Linux: Shared files and shared memory | Opensource.com](https://opensource.com/article/19/4/interprocess-communication-linux-storage)
+[Inter-process communication in Linux: Shared files and shared memory](https://opensource.com/article/19/4/interprocess-communication-linux-storage)
 
-[Inter-process communication in Linux: Using pipes and message queues | Opensource.com](https://opensource.com/article/19/4/interprocess-communication-linux-channels)
+[Inter-process communication in Linux: Using pipes and message queues](https://opensource.com/article/19/4/interprocess-communication-linux-channels)
 
 [The Linux Kernel Implementation of Pipes and FIFOs](https://www.slideshare.net/divyekapoor/linux-kernel-implementation-of-pipes-and-fifos)
 
 [Socat Cheatsheet - blog.travismclarke.com](https://blog.travismclarke.com/post/socat-tutorial/)
 
-[socat. I learned about socat a few years ago… | by Cindy Sridharan | Medium](https://copyconstruct.medium.com/socat-29453e9fc8a6)
+[socat. I learned about socat a few years ago, Cindy Sridharan](https://copyconstruct.medium.com/socat-29453e9fc8a6)
 
 [KVM](https://www.linux-kvm.org/page/Main_Page)
 
-[Virtualization basics and an introduction to KVM | articles about programming on mkdev](https://mkdev.me/en/posts/virtualization-basics-and-an-introduction-to-kvm)
+[Virtualization basics and an introduction to KVM](https://mkdev.me/en/posts/virtualization-basics-and-an-introduction-to-kvm)
 
-[Flatcar Container Linux: The Ideal OS for Running Kubernetes at the Edge – The New Stack](https://thenewstack.io/flatcar-container-linux-the-ideal-os-for-running-kubernetes-at-the-edge/)
+[Flatcar Container Linux](https://thenewstack.io/flatcar-container-linux-the-ideal-os-for-running-kubernetes-at-the-edge/)
 
-[bottlerocket-os/bottlerocket: An operating system designed for hosting containers](https://github.com/bottlerocket-os/bottlerocket)
+[bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket)
 
-[rancher/os: Tiny Linux distro that runs the entire OS as Docker containers](https://github.com/rancher/os)
+[rancher/os](https://github.com/rancher/os)
 
 [Comparison of X window managers - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_X_window_managers)
 
@@ -432,25 +426,25 @@
 
 [Kerberos: The Network Authentication Protocol](http://web.mit.edu/kerberos/)
 
-[Nixos.pdf](https://edolstra.github.io/pubs/nixos-jfp-final.pdf)
+[Nixos](https://edolstra.github.io/pubs/nixos-jfp-final.pdf)
 
 [Purely Functional Linux with NixOS](https://begriffs.com/posts/2016-08-08-intro-to-nixos.html)
 
 [How X Window Managers Work, And How To Write One (Part I)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
 
-[castrojo/awesome-immutable: A list of resources for people who want to investigate image-based Linux desktops](https://github.com/castrojo/awesome-immutable)
+[castrojo/awesome-immutable](https://github.com/castrojo/awesome-immutable)
 
 
 ## Appendicies
 
-[GitHub - ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.](https://github.com/ibraheemdev/modern-unix)
+[collection of modern alternatives to common commands](https://github.com/ibraheemdev/modern-unix)
 
-[joehillen/sysz: An fzf terminal UI for systemctl](https://github.com/joehillen/sysz)
+[joehillen/sysz](https://github.com/joehillen/sysz)
 
-[BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore](https://github.com/BurntSushi/ripgrep)
+[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)
 
-[ogham/exa: A modern replacement for ‘ls’.](https://github.com/ogham/exa)
+[ogham/exa](https://github.com/ogham/exa)
 
 [dog](https://dns.lookup.dog/)
 
-[ajeetdsouza/zoxide: A smarter cd command. Supports all major shells.](https://github.com/ajeetdsouza/zoxide)
+[ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
