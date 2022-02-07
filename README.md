@@ -81,6 +81,8 @@ _Note: this chapter is already available in Early Release._
 
 ### Ch 6: Applications, Package Management & Containers
 
+_Note: this chapter is already available in Early Release._
+
 > In this chapter we talk about applications in Linux. We discuss how Linux starts up and brings all the services we depend on into being. We then move on to package management where we first review the application supply chain in general terms and see what the different moving parts are about. In the next part of the chapter we focus on containers, what they are and how they work. To round off this chapter we look at modern ways to manage Linux apps, especially in desktop environments.
 
 * Basics
@@ -91,6 +93,8 @@ _Note: this chapter is already available in Early Release._
 * Modern Package Managers
 
 ### Ch 7: Networking
+
+_Note: this chapter is already available in Early Release._
 
 > In this chapter we go into detail concerning Linux networking. In modern environments, the network stack that Linux provides is an essential component without few things are possible. No matter if you want to access an instance in your cloud provider of choice, or if you want to browse the Web or if you want to install a new app.
 
