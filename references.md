@@ -4,9 +4,13 @@
 
 [Happy birthday, Linux](https://www.theregister.com/2021/08/25/linux_kernel_30_years_old/)
 
+[Linux Distributions Timeline](https://upload.wikimedia.org/wikipedia/commons/b/b5/Linux_Distribution_Timeline_21_10_2021.svg)
+
 [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 
 [The Birth of UNIX With Brian Kernighan - CoRecursive Podcast](https://corecursive.com/brian-kernighan-unix-bell-labs1/)
+
+[Fragmentation Is GOOD: Why We Still Need New Linux Distros](https://openforeveryone.net/articles/fragmentation-is-good-why-we-need-new-linux-distros/)
 
 
 ## Ch 2: The Linux Kernel
@@ -243,6 +247,8 @@
 
 [Control Group v2 — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/admin-guide/cgroup-v2.html)
 
+[The current adoption status of cgroup v2 in containers](https://medium.com/nttlabs/cgroup-v2-596d035be4d7)
+
 [Use bind mounts](https://docs.docker.com/storage/bind-mounts/)
 
 [The hunt for a better Dockerfile](https://matduggan.com/the-hunt-for-a-better-dockerfile/)
@@ -347,6 +353,8 @@
 
 [monit](https://mmonit.com/monit/)
 
+[`top` based monitoring tools for use in Linux](https://drtailor.medium.com/a-curated-list-of-top-based-monitoring-tools-for-use-in-linux-and-unix-terminals-299154fd1394)
+
 [Shopify/statsd-instrument: A StatsD client for Ruby apps](https://github.com/shopify/statsd-instrument)
 
 [Learn StatsD Metrics Architecture, Metrics Types and Formats](https://sysdig.com/blog/monitoring-statsd-metrics/)
@@ -448,3 +456,9 @@
 [dog](https://dns.lookup.dog/)
 
 [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)
+
+[kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm)
+
+[antonmedv/fx](https://github.com/antonmedv/fx)
+
+[jpmens/jo](https://github.com/jpmens/jo)
