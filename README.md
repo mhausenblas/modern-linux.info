@@ -15,7 +15,7 @@ Flatcar and Bottlerocket.
 
 ![book cover](lml-cover.png)
 
-The book is currently in [Early Release at O'Reilly](https://learning.oreilly.com/library/view/learning-modern-linux/9781098108939/) 
+As of April 2022 the book is [available via O'Reilly](https://learning.oreilly.com/library/view/learning-modern-linux/9781098108939/) 
 and if you have feedback, please share via [modern-linux@pm.me](mailto:modern-linux@pm.me).
 
 Last but not least, a collection of [references](references) (links to articles and tools)
@@ -24,8 +24,6 @@ is also available for you to use.
 ## Coverage
 
 ### Ch 1: Introduction to Linux 
-
-_Note: this chapter is already available in Early Release._
 
 > We first discuss what "Modern" means in the context of the book. Then we provide a high-level Linux backstory, looking at important events and phases over the past 30 years. Further, you will learn what the role of an operating system is in general and how Linux goes about it. We have a quick look at what Linux distributions are and what resource visibility means.
 
@@ -37,8 +35,6 @@ _Note: this chapter is already available in Early Release._
 
 ### Ch 2: The Linux Kernel
 
-_Note: this chapter is already available in Early Release._
-
 > In this chapter we discuss what the Linux kernel is and how you should be thinking about it as a whole as well as about its components. You will learn about the overall Linux architecture and the essential role the Linux kernel plays. One main takeaway of this chapter should be that while the kernel provides all the core functionality, on its own it is not the operating system but only a part of it.
 
 * Linux Architecture
@@ -47,8 +43,6 @@ _Note: this chapter is already available in Early Release._
 * Kernel Extensions
 
 ### Ch 3: Shells & Scripting
-
-_Note: this chapter is already available in Early Release._
 
 > In this chapter we focus on interacting with Linux on the terminal, that is, via the shell which exposes a command line interface (CLI). Then we have a look at modern, human-friendly shells, such as the `fish` shell. Then, we move on to the topic of how to effectively work on the CLI using a terminal multiplexer (`tmux`), enabling you to work with multiple sessions, local or remote alike. In the last part of this chapter we focus on automating tasks in the shell using scripts.
 
@@ -59,8 +53,6 @@ _Note: this chapter is already available in Early Release._
 
 ### Ch 4: Access Control
 
-_Note: this chapter is already available in Early Release._
-
 > In this chapter we discuss the topic of users and controlling access to resources in general and files in particular.
 
 * Users
@@ -70,8 +62,6 @@ _Note: this chapter is already available in Early Release._
 
 ### Ch 5: Filesystems
 
-_Note: this chapter is already available in Early Release._
-
 > In this chapter we focus on files and filesystems. We look at how Linux implements the “everything is a file” abstraction. Next, we review special-purpose filesystems the kernel uses to expose information about processes or devices. We then move on to regular files and filesystems, something you would typically associate with documents, and compare filesystem options and discuss common operations.
   
 * Basics
@@ -80,8 +70,6 @@ _Note: this chapter is already available in Early Release._
 * Regular Files
 
 ### Ch 6: Applications, Package Management & Containers
-
-_Note: this chapter is already available in Early Release._
 
 > In this chapter we talk about applications in Linux. We discuss how Linux starts up and brings all the services we depend on into being. We then move on to package management where we first review the application supply chain in general terms and see what the different moving parts are about. In the next part of the chapter we focus on containers, what they are and how they work. To round off this chapter we look at modern ways to manage Linux apps, especially in desktop environments.
 
@@ -93,8 +81,6 @@ _Note: this chapter is already available in Early Release._
 * Modern Package Managers
 
 ### Ch 7: Networking
-
-_Note: this chapter is already available in Early Release._
 
 > In this chapter we go into detail concerning Linux networking. In modern environments, the network stack that Linux provides is an essential component without few things are possible. No matter if you want to access an instance in your cloud provider of choice, or if you want to browse the Web or if you want to install a new app.
 
