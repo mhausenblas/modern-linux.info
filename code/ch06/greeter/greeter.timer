@@ -1,0 +1,6 @@
+# greeter.timer
+[Unit]
+Description=Runs Greeting service at the top of the hour
+
+[Timer]
+OnCalendar=hourly
