@@ -18,8 +18,11 @@ Flatcar and Bottlerocket.
 As of April 2022 the book is [available via O'Reilly](https://learning.oreilly.com/library/view/learning-modern-linux/9781098108939/) 
 and if you have feedback, please share via [modern-linux@pm.me](mailto:modern-linux@pm.me).
 
-Last but not least, a collection of [references](references) (links to articles and tools)
-is also available for you to use.
+Supporting material for the book is also available:
+
+1. A collection of [references](references) containing links to articles and tools
+1. [Code snippets and configuration files](https://github.com/mhausenblas/modern-linux.info/tree/main/code)
+
 
 ## Coverage
 
