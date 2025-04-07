@@ -4,7 +4,7 @@
 
 [Happy birthday, Linux](https://www.theregister.com/2021/08/25/linux_kernel_30_years_old/)
 
-[Linux Distributions Timeline](https://upload.wikimedia.org/wikipedia/commons/b/b5/Linux_Distribution_Timeline_21_10_2021.svg)
+[Linux Distributions Timeline](https://commons.wikimedia.org/wiki/File:Linux_Distribution_Timeline.svg)
 
 [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 
